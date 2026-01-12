@@ -6669,7 +6669,7 @@ vary@^1, vary@~1.1.2:
 
 "verus-typescript-primitives@git+https://github.com/mcstoer/verus-typescript-primitives.git#credential-key-update":
   version "1.0.0"
-  resolved "git+https://github.com/mcstoer/verus-typescript-primitives.git#57f107a0c7a81b27b6ddcdb3cad95cb8cd6279f8"
+  resolved "git+https://github.com/mcstoer/verus-typescript-primitives.git#509ee45582a83732705369904a495daed4187288"
   dependencies:
     base64url "3.0.1"
     bech32 "2.0.0"
